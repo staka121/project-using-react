@@ -1,3 +1,7 @@
+<p align="center">
+  <img src="https://github.com/staka121/project-using-react/blob/images/images/react-projects.png" width="150">
+</p>
+
 # Project using React
 list for project using react and more
 
