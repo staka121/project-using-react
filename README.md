@@ -7,3 +7,6 @@ using: `React`, `Redux`, `TypeScript`
 - The Firefox debugger that works anywhere \
 https://github.com/firefox-devtools/debugger \
 using: `React`, `Redux`, `TypeScript`
+- Builder Book is an open source web app to publish documentation or books \
+https://github.com/builderbook/builderbook \
+using: `React`
