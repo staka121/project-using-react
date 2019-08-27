@@ -14,3 +14,6 @@ using: `React`, `Redux`, `TypeScript`
 - Builder Book is an open source web app to publish documentation or books \
 https://github.com/builderbook/builderbook \
 using: `React`
+- Generate beautiful documentation from a Swagger-compliant API \
+https://github.com/swagger-api/swagger-ui \
+using: `React`, `Redux`
